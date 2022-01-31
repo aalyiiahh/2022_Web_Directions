@@ -1,0 +1,19 @@
+#logoHeader{
+    float: left;
+    height: 50px;
+    width: 50px;
+}
+#textHeader{
+    position: relative;
+    left: 10px;
+    top: 18px;
+}
+
+body {
+    background-color:#47c46c;
+}
+
+#intro{
+text-decoration: deepskyblue;
+    size: portrait;
+}
